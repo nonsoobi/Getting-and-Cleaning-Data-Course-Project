@@ -1,6 +1,6 @@
 ## Description
 
-This contains additional information about the variables, data and transformations used in the Geting and Cleaning Data Course Project course project.
+This contains additional information about the variables, data and transformations used in the Getting and Cleaning Data Course Project course project.
 
 ## Source Data
 
